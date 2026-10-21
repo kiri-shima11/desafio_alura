@@ -3,3 +3,7 @@ let git = ("sistema para rastrear as alterações de códigos em uma linha do te
 let github = ("plataforma de hospedagemd e códigos e rede social para devs");
 
 alert(git && github);
+
+//alterando um commit
+
+let status;
